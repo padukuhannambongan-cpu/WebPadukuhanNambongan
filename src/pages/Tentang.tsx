@@ -93,17 +93,7 @@ const Tentang = () => {
               <span>Diperbarui terakhir pada <span className="font-semibold text-foreground">{lastUpdated}</span></span>
             </div>
 
-            {/* Map Section
-            <div className="mb-12">
-              <h2 className="text-2xl font-bold text-foreground mb-4 flex items-center gap-2">
-                <MapPin className="w-6 h-6 text-primary" />
-                Peta Lokasi dan Data RT/RW
-              </h2>
-              <p className="text-muted-foreground mb-6">
-                Klik pada marker di peta untuk melihat informasi detail jumlah penduduk tiap RT/RW
-              </p>
-              <VillageMap className="h-[500px]" />
-            </div> */}
+          
 
             {/* RT/RW Table - Urutan: RT/RW, Laki-Laki, Perempuan, Total */}
             <div>
