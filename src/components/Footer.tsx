@@ -20,24 +20,7 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Kontak */}
-          <div>
-            <h3 className="text-lg font-semibold mb-4">Kontak Kami</h3>
-            <div className="space-y-3">
-              <div className="flex items-center gap-3 text-sm text-primary-foreground/80">
-                <Phone className="w-4 h-4" />
-                <span>(024) 1234-5678</span>
-              </div>
-              <div className="flex items-center gap-3 text-sm text-primary-foreground/80">
-                <Mail className="w-4 h-4" />
-                <span>desa.nambongan@gmail.com</span>
-              </div>
-              <div className="flex items-center gap-3 text-sm text-primary-foreground/80">
-                <Clock className="w-4 h-4" />
-                <span>Senin - Jumat: 08.00 - 16.00 WIB</span>
-              </div>
-            </div>
-          </div>
+        
 
           {/* Links */}
           <div>
